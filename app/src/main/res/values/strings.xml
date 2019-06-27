@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLEtesting</string>
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+</resources>
